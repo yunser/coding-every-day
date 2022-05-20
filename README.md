@@ -2,6 +2,8 @@
 
 每天写点代码。
 
+* 2022-05-20
+    * [3D 苹果应用商店图标](https://3d-app.yunser.com/blank)
 * 2022-05-19
     * [Chrome Extension Boilerplate](https://github.com/yunser/chrome-template)
     * [Vercel 测试项目](https://github.com/yunser/vercel-nextjs)
