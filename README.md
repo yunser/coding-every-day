@@ -2,6 +2,11 @@
 
 每天写点代码。
 
+* 2022-05-21
+    * [30 天打卡设计图](https://mastergo.com/file/61618097948782)
+    * [30 天打卡 Demo](https://vercel.yunser.com/)
+    * [MasterGo 插件测试](https://github.com/yunser/mastergo-hello)
+    * [MasterGo 随机颜色插件](https://github.com/yunser/mastergo-random-color)
 * 2022-05-20
     * [3D 苹果应用商店图标](https://3d-app.yunser.com/blank)
 * 2022-05-19
