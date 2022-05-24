@@ -2,8 +2,13 @@
 
 每天写点代码。
 
+[打卡图](https://vercel.yunser.com/)。
+
+
+* 2022-05-24
+    * [（MVC）Figma 随机文本插件](https://github.com/yunser/random-figma)
 * 2022-05-23
-    * [Figma 随机文本插件](https://github.com/yunser/random-figma)
+    * [（Demo）Figma 随机文本插件](https://github.com/yunser/random-figma)
 * 2022-05-22
     * [Figma 随机颜色插件](https://github.com/yunser/random-color-figma)
     * [Sketch 随机颜色插件](https://github.com/yunser/random-color-sketch)
