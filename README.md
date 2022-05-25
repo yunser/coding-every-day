@@ -4,7 +4,8 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
-
+* 2022-05-25
+    * [uTools 命令行搜索插件](https://github.com/yunser/cmd-utools)
 * 2022-05-24
     * [（MVC）Figma 随机文本插件](https://github.com/yunser/random-figma)
 * 2022-05-23
