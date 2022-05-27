@@ -4,6 +4,8 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
+* 2022-05-27
+    * [（Demo）uTools TOTP 插件](https://github.com/yunser/totp-utools)
 * 2022-05-26
     * [uTools 插件模板](https://github.com/yunser/utools-template)
     * [二次验证测试工具](https://password.yunser.com/totp)
