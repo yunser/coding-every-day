@@ -4,6 +4,9 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
+* 2022-05-28
+    * [Figma 网格复制插件](https://github.com/yunser/copy-figma)
+    * [Figma 插件模板](https://github.com/yunser/figma-plugin-template)
 * 2022-05-27
     * [（Demo）uTools TOTP 插件](https://github.com/yunser/totp-utools)
 * 2022-05-26
