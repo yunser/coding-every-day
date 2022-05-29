@@ -4,6 +4,9 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
+* 2022-05-29
+    * [uTools 颜色插件](https://github.com/yunser/color-utools)
+    * [uTools 网页快开插件](https://github.com/yunser/url-utools)
 * 2022-05-28
     * [Figma 网格复制插件](https://github.com/yunser/copy-figma)
     * [Figma 插件模板](https://github.com/yunser/figma-plugin-template)
