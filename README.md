@@ -4,6 +4,8 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
+* 2022-05-30
+    * [uTools 应用快速打开插件](https://github.com/yunser/app-utools)
 * 2022-05-29
     * [uTools 颜色插件](https://github.com/yunser/color-utools)
     * [uTools 网页快开插件](https://github.com/yunser/url-utools)
