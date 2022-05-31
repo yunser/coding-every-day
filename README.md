@@ -4,6 +4,8 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
+* 2022-05-31
+    * [React 应用模板](https://github.com/yunser/react-template)
 * 2022-05-30
     * [uTools 应用快速打开插件](https://github.com/yunser/app-utools)
 * 2022-05-29
