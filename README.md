@@ -4,6 +4,8 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
+* 2022-06-01
+    * [Figma Section 插件](https://github.com/yunser/figma-section-plugin-public)
 * 2022-05-31
     * [React 应用模板](https://github.com/yunser/react-template)
 * 2022-05-30
