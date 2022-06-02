@@ -4,6 +4,8 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
+* 2022-06-02
+    * [CSS sticky](https://css-pro.yunser.com/sticky)
 * 2022-06-01
     * [Figma Section 插件](https://github.com/yunser/figma-section-plugin-public)
 * 2022-05-31
