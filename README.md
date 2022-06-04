@@ -4,9 +4,13 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
+* 2022-06-04
+    * [即时设计随机颜色插件](https://github.com/yunser/random-color-jsdesign)
+    * [uTools 深色模式插件](https://github.com/yunser/utools-plugins)
 * 2022-06-03
     * [CSS cursor](https://css-pro.yunser.com/cursor)
     * [Nest 模板](https://github.com/yunser/nestjs-template)
+    * [Node 框架比较](https://css-pro.yunser.com/node)
 * 2022-06-02
     * [CSS sticky](https://css-pro.yunser.com/sticky)
 * 2022-06-01
