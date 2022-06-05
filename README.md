@@ -4,6 +4,8 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
+* 2022-06-05
+    * [Figma 生成按钮插件](https://github.com/yunser/figma-design)
 * 2022-06-04
     * [即时设计随机颜色插件](https://github.com/yunser/random-color-jsdesign)
     * [uTools 深色模式插件](https://github.com/yunser/utools-plugins)
