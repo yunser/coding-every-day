@@ -4,6 +4,8 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
+* 2022-06-07
+    * [Figma Section 插件更新](https://www.figma.com/community/plugin/1113886515472528766)
 * 2022-06-06
     * [uTools 密码管理插件](https://github.com/yunser/password-utools)
 * 2022-06-05
