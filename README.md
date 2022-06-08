@@ -4,6 +4,9 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
+* 2022-06-08
+    * [Figma 随机颜色插件支持参数配置](https://www.figma.com/community/plugin/1110990698532657166/)
+    * [uTools 网页快开插件优化](https://github.com/yunser/url-utools)
 * 2022-06-07
     * [Figma Section 插件更新](https://www.figma.com/community/plugin/1113886515472528766)
 * 2022-06-06
@@ -39,7 +42,7 @@
 * 2022-05-25
     * [uTools 命令行搜索插件](https://github.com/yunser/cmd-utools)
 * 2022-05-24
-    * [（MVC）Figma 随机文本插件](https://github.com/yunser/random-figma)
+    * [（MVP）Figma 随机文本插件](https://github.com/yunser/random-figma)
 * 2022-05-23
     * [（Demo）Figma 随机文本插件](https://github.com/yunser/random-figma)
 * 2022-05-22
