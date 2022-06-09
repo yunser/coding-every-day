@@ -4,6 +4,10 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
+
+* 2022-06-09
+    * [uTools 文件夹快速打开插件](https://github.com/yunser/file-utools)
+    * [Figma Grid Copy 插件更新](https://www.figma.com/community/plugin/1112341549325276309/)
 * 2022-06-08
     * [Figma 随机颜色插件支持参数配置](https://www.figma.com/community/plugin/1110990698532657166/)
     * [uTools 网页快开插件优化](https://github.com/yunser/url-utools)
@@ -76,9 +80,8 @@
     * [画一个支持拖拽的矩形](https://bg.yunser.com/board)
 * 2022-05-09
     * [给 GeoGebra 网页编辑器加上撤回快捷键](https://github.com/yunser/geogebra-userscript)
-* 2022-05-08
-    * [FFCreator 学习 - 制作一个「倒计时」的视频](https://github.com/yunser/ffcreator-test)
-* 2022-05-07
-    * [FFCreator 学习 - 制作一个「猜省会」的视频](https://github.com/yunser/ffcreator-test)
-* 2022-05-06
-    * [FFCreator 学习](https://github.com/yunser/ffcreator-test)
+* 更早
+    * FFCreator
+        * [FFCreator 学习](https://github.com/yunser/ffcreator-test)
+        * [FFCreator 学习 - 制作一个「猜省会」的视频](https://github.com/yunser/ffcreator-test)
+        * [FFCreator 学习 - 制作一个「倒计时」的视频](https://github.com/yunser/ffcreator-test)
