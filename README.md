@@ -4,7 +4,8 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
-
+* 2022-06-10
+    * [Figma Random Text 插件优化](https://www.figma.com/community/plugin/1116426626869645051/)
 * 2022-06-09
     * [uTools 文件夹快速打开插件](https://github.com/yunser/file-utools)
     * [Figma Grid Copy 插件更新](https://www.figma.com/community/plugin/1112341549325276309/)
