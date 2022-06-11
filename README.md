@@ -4,6 +4,8 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
+* 2022-06-11
+    * [清除 node_modules，拯救磁盘](https://github.com/yunser/node_modules_clearner)
 * 2022-06-10
     * [Figma Random Text 插件优化](https://www.figma.com/community/plugin/1116426626869645051/)
 * 2022-06-09
