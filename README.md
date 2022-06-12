@@ -4,6 +4,8 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
+* 2022-06-12
+    [Scriptable Hello World](https://github.com/yunser/scriptable-template)
 * 2022-06-11
     * [清除 node_modules，拯救磁盘](https://github.com/yunser/node_modules_clearner)
 * 2022-06-10
