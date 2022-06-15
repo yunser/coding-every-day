@@ -4,9 +4,10 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
-
+* 2022-06-15
+    * [Figma 插件更新](https://www.figma.com/community/plugin/1115253540858802652)
 * 2022-06-14
-    [Figam Frame Tool（审核中）](https://www.figma.com/community/plugin/1118563470807277130)
+    * [Figam Frame Tool（审核中）](https://www.figma.com/community/plugin/1118563470807277130)
 * 2022-06-13
     * [vscode-template](https://github.com/yunser/vscode-template)
 * 2022-06-12
