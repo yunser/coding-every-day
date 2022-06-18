@@ -4,15 +4,19 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
+
+* 2022-06-18
+    * [CSS Filter](https://css-pro.yunser.com/css-filter)
+    * [Figma 图片灰度插件（审核中）](https://www.figma.com/community/plugin/1119902195699638035)
 * 2022-06-17
     * [图片灰度滤镜](https://css-pro.yunser.com/filter)
 * 2022-06-16
     * [Figma Design Tool 插件更新](https://www.figma.com/community/plugin/1115253540858802652)
 * 2022-06-15
     * [Figma 插件更新](https://www.figma.com/community/plugin/1115253540858802652)
-    * [Figam Random Size（审核中）](https://www.figma.com/community/plugin/1118961669120674782)
+    * [Figam Random Size](https://www.figma.com/community/plugin/1118961669120674782)
 * 2022-06-14
-    * [Figam Frame Tool（审核中）](https://www.figma.com/community/plugin/1118563470807277130)
+    * [Figam Frame Tool](https://www.figma.com/community/plugin/1118563470807277130)
 * 2022-06-13
     * [vscode-template](https://github.com/yunser/vscode-template)
 * 2022-06-12
