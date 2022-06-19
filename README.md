@@ -4,7 +4,8 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
-
+* 2022-06-19
+    * [网站状态（CSS）](https://console.yunser.com/status)
 * 2022-06-18
     * [CSS Filter](https://css-pro.yunser.com/css-filter)
     * [Figma 图片灰度插件（审核中）](https://www.figma.com/community/plugin/1119902195699638035)
