@@ -4,6 +4,8 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
+* 2022-06-24
+    * [PWA 桌面安装、消息通讯](https://pwa.yunser.com/)
 * 2022-06-23
     * [PWA 学习](https://pwa.yunser.com/)
 * 2022-06-22
