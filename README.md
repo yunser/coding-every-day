@@ -4,6 +4,8 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
+* 2022-06-30
+    * [Figma Design Tool 插件更新](https://www.figma.com/community/plugin/1115253540858802652)
 * 2022-06-29
     * [Figma TODO Widget（审核中）](https://www.figma.com/community/widget/1124015586798798685)
 * 2022-06-28
