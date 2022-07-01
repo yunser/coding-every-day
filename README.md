@@ -4,6 +4,8 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
+* 2022-07-01
+    * [使用 monaco 实现一个 JSON 代码编辑器](https://jsonx.yunser.com/)
 * 2022-06-30
     * [Figma Design Tool 插件更新](https://www.figma.com/community/plugin/1115253540858802652)
 * 2022-06-29
