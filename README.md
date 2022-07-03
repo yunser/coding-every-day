@@ -4,6 +4,9 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
+
+* 2022-07-03
+    * [Figma 表情 Widget（审核中）](https://www.figma.com/community/widget/1125383129197661486)
 * 2022-07-02
     * [Figma 二维码插件（审核中）](https://www.figma.com/community/plugin/1124757070391801748/)
 * 2022-07-01
