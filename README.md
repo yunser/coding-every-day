@@ -4,7 +4,8 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
-
+* 2022-07-04
+    * [Chrome 103 本地字体特性](https://css-pro.yunser.com/local-font)
 * 2022-07-03
     * [Figma 表情 Widget（审核中）](https://www.figma.com/community/widget/1125383129197661486)
 * 2022-07-02
