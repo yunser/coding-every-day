@@ -4,6 +4,8 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
+* 2022-07-05
+    * [WASM 学习](https://github.com/yunser/c-wasm)
 * 2022-07-04
     * [Chrome 103 本地字体特性](https://css-pro.yunser.com/local-font)
 * 2022-07-03
