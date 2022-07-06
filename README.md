@@ -4,6 +4,8 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
+* 2022-07-06
+    * [uTools IMEI 生成插件](https://dev.yunser.com/imei)
 * 2022-07-05
     * [WASM 学习](https://github.com/yunser/c-wasm)
 * 2022-07-04
