@@ -4,6 +4,8 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
+* 2022-07-07
+    * [Fimge MarkNote 插件（审核中）](https://www.figma.com/community/widget/1126927473785367489)
 * 2022-07-06
     * [uTools IMEI 生成插件](https://dev.yunser.com/imei)
 * 2022-07-05
