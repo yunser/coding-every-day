@@ -4,6 +4,8 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
+* 2022-07-08
+    * [uTool 快速复制插件](https://github.com/yunser/clipboard-utools)
 * 2022-07-07
     * [Fimge MarkNote 插件（审核中）](https://www.figma.com/community/widget/1126927473785367489)
 * 2022-07-06
