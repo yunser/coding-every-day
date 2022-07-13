@@ -4,6 +4,8 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
+* 2022-07-13
+    * [uTools 插件下载页面](https://utools.yunser.com/)
 * 2022-07-12
     * [Figma MarkNote 插件更新](https://www.figma.com/community/widget/1126927473785367489)
 * 2022-07-11
