@@ -4,6 +4,8 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
+* 2022-07-14
+    * [Figma Icon Font Exporter 插件（审核中）](https://www.figma.com/community/plugin/1129455674275940478)
 * 2022-07-13
     * [uTools 插件下载页面](https://utools.yunser.com/)
 * 2022-07-12
