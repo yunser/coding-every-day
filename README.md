@@ -4,6 +4,8 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
+* 2022-07-17
+    * [Figma Icon Font Exporter 插件更新](https://www.figma.com/community/plugin/1129455674275940478)
 * 2022-07-16
     * [Figma MarkNote 插件更新](https://www.figma.com/community/widget/1126927473785367489)
 * 2022-07-15
