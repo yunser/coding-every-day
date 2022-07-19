@@ -4,6 +4,8 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
+* 2022-07-19
+    * Figma 导入 TTF（未发布）
 * 2022-07-18
     * [Figma Icon Font Exporter 插件更新](https://www.figma.com/community/plugin/1129455674275940478)
 * 2022-07-17
