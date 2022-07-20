@@ -4,6 +4,9 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
+
+* 2022-07-20
+    * [Figma 导入 TTF 插件（审核中）](https://www.figma.com/community/plugin/1131588345452416028)
 * 2022-07-19
     * Figma 导入 TTF（未发布）
 * 2022-07-18
