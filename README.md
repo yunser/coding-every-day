@@ -4,6 +4,8 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
+* 2022-07-24
+    * [API 管理 demo](https://api-x.yunser.com/)
 * 2022-07-23
     * [插件机制探索 demo](https://css-pro.yunser.com/iframe)
 * 2022-07-22
