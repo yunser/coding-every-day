@@ -4,6 +4,8 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
+* 2022-07-25
+    * [API 管理更新](https://api-x.yunser.com/)
 * 2022-07-24
     * [API 管理 demo](https://api-x.yunser.com/)
 * 2022-07-23
