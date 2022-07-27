@@ -4,6 +4,8 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
+* 2022-07-27
+    * [WebGL 学习 - 绘制三角形和圆形](https://demos.yunser.com/webgl/trigngle.html)
 * 2022-07-26
     * [Figma Icon Font Exporter 插件更新](https://www.figma.com/community/plugin/1129455674275940478)
 * 2022-07-25
