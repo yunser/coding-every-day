@@ -4,6 +4,8 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
+* 2022-07-29
+    * [Figma Icon Font Exporter 插件支持导出 woff2](https://www.figma.com/community/plugin/1129455674275940478)
 * 2022-07-28
     * [Figma Icon Font Exporter 插件支持导出彩色图标](https://www.figma.com/community/plugin/1129455674275940478)
 * 2022-07-27
