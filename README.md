@@ -4,6 +4,8 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
+* 2022-07-31
+    * [完善 Figma 复制 JSON](https://www.figma.com/community/plugin/1115253540858802652)
 * 2022-07-30
     * [Figma Icon Font Exporter 插件支持预览](https://www.figma.com/community/plugin/1129455674275940478)
 * 2022-07-29
