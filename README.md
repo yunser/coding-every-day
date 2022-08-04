@@ -4,6 +4,8 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
+* 2022-08-04
+    * [Font Importer update](https://www.figma.com/community/plugin/1131588345452416028)
 * 2022-08-03
     * [一个全局命令组件](https://css-pro.yunser.com/command)
 * 2022-08-01
