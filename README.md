@@ -4,7 +4,8 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
-
+* 2022-08-08
+    * [Figma 插件更新](https://www.figma.com/community/plugin/1115253540858802652)
 * 2022-08-07
     * [在线字体查看第一版](https://font-pro.yunser.com/viewer)
 * 2022-08-06
