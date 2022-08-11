@@ -4,6 +4,8 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
+* 2022-08-11
+    * [Figma JSON 插件更新](https://www.figma.com/community/plugin/1135653849910773588)
 * 2022-08-10
     * [Figma 插件更新](https://www.figma.com/community/plugin/1115253540858802652)
 * 2022-08-09
