@@ -4,7 +4,8 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
-
+* 2022-08-14
+    * [Figam 地图插件（审核中）更新](https://www.figma.com/community/plugin/1140277581911820693)
 * 2022-08-13
     * [Figam 手绘插件（审核中）](https://www.figma.com/community/plugin/1140161291737162062)
     * [Figam 地图插件（审核中）](https://www.figma.com/community/plugin/1140277581911820693)
