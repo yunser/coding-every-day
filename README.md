@@ -4,6 +4,8 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
+* 2022-08-30
+    * [Figma Connect 插件（审核中）](https://www.figma.com/community/plugin/1146491528527031645)
 * 2022-08-29
     * [Figma 插件更新](https://www.figma.com/community/plugin/1142136289756944617)
 * 2022-08-27
