@@ -4,6 +4,8 @@
 
 [打卡图](https://vercel.yunser.com/)。
 
+* 2022-09-01
+    * [dms-cli 更新](https://www.npmjs.com/package/@yunser/dms-cli)
 * 2022-08-31
     * [Figma 插件更新](https://www.figma.com/community/plugin/1140161291737162062)
 * 2022-08-30
